@@ -1,0 +1,3 @@
+include ':HttpNet'
+include ':app'
+rootProject.name = "HttpModel"
